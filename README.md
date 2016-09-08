@@ -7,7 +7,7 @@ A simple chat demo for socket.io
 ## How to use
 
 ```
-$ cd socket.io
+$ cd ChatApplication
 $ npm install
 $ cd examples/chat
 $ npm install
